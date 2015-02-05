@@ -1,4 +1,4 @@
-#player,#player a{ color:#ff5959; }
+#player,#player a{ color:##604b68; }
 #player{ background:url(sizerAndVol.png); background-position:bottom; }
 #player .mainImage{ background:url(main.png); }
 
@@ -17,13 +17,13 @@
 #player #seeker{ right:320px; }
 #player #seekerBase{ border-color:#ffe1e7;  }
 #player #seekerBuffered{ background-color:#ffe1e7; }
-#player #seekerSliderBase{ background-color:#ff0033; }
+#player #seekerSliderBase{ background-color:#362e3e; }
 
 #player #volume{ width:65px; right:39px; }
 #player #volumeSlider{ width:8px; background:url(sizerAndVol.png); }
 
-#playlist,#playlist .module,#playlist h3{ border-color:#ff0033; color:#ff0033; }
-#playlist h3{ color:#ff0033; background-color:#fff; }
+#playlist,#playlist .module,#playlist h3{ border-color:#362e3e; color:#362e3e; }
+#playlist h3{ color:#362e3e; background-color:#fff; }
 #playlist .even{background-color:#FFF;}
 #playlist .odd{ background-color:#ffe8e8;}
-#playlist .focus{ background-color:#ff0033; color:#FFF;}
+#playlist .focus{ background-color:#362e3e; color:#FFF;}
